@@ -1,0 +1,10 @@
+platform :ios, '9.0'
+
+use_frameworks!
+target "ScrollMap" do
+
+#pod 'AMap3DMap', '~> 6.6.0'
+#pod 'libxlsxwriter', '~> 0.8.4'
+#pod 'AMapSearch', '~> 6.6.0'
+
+end
